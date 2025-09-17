@@ -1,6 +1,6 @@
-# Gradient Glow Search
+# Amazon Scout
 
-A React-based e-commerce search interface with animated backgrounds and real Amazon product data integration.
+A React-based search interface with real Amazon product data integration.
 
 ## What it does
 
